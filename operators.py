@@ -40,3 +40,4 @@ if pasa_boka | gore_boka:
 if pasa_boka & gore_boka: 
     print("Duitai Boka")
 
+
